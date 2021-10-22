@@ -1,0 +1,11 @@
+@media screen and (max-width: 750px) {
+    .sersh{
+        width: 300px;
+    }
+    input{
+        width: 200px;
+    }
+    .bt-1{
+        margin-left: 5%;
+    }
+}
